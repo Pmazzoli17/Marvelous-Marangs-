@@ -1,0 +1,58 @@
+.jumbotron {
+  background-color: green;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px; }
+
+#pageTitle {
+  font-family: 'Bungee Inline', cursive;
+  font-size: 100px; }
+
+#question {
+  font-family: 'Bungee Shade', cursive; }
+
+.btn-danger {
+  background-color: #D70060;
+  border: 1px solid #000000; }
+
+#angry {
+
+	background-color: red;
+
+}
+
+#output img {
+	width: 100%;
+	height: auto;
+}
+
+  background-color: red;
+  border: 1px solid #000000; }
+
+#anxious {
+  border: 1px solid #000000; }
+
+#happy {
+  border: 1px solid #000000; }
+
+#romantic {
+  border: 1px solid #000000; }
+
+#sad {
+  border: 1px solid #000000; }
+
+#help {
+  border: 1px solid #000000; }
+
+.embed-responsive {
+  border: 1px solid #000000; }
+
+h2 {
+  text-align: center;
+  font-family: 'Bungee Shade', cursive; }
+
+/*# sourceMappingURL=style.css.map */
