@@ -39,9 +39,9 @@
 
 .imgcontainer {
   width: 100%;
-  height: 255px;
+  height: 355px;
   background-color: gray;
-  display: flex;
+  /*display: flex;*/
   justify-content: center;
   align-items: center;
   margin-bottom: 5px; }
